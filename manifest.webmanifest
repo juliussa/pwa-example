@@ -10,7 +10,7 @@
     }
   ],
   "name": "Awesome fox pictures",
-  "orientation": "natural",
+  "orientation": "any",
   "short_name": "Foxes",
   "start_url": "/index.html"
 }
